@@ -40,6 +40,7 @@ It allows users to create temporary pastes with **TTL (time-to-live)** and **max
 - ⚡ Serverless-ready backend
 
 ---
+<img width="749" height="461" alt="image" src="https://github.com/user-attachments/assets/18f128c0-6d79-4b94-960e-0784593ae165" />
 
 ## 🚀 Getting Started (Local Setup)
 
