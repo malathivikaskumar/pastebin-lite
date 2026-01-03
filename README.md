@@ -17,6 +17,7 @@ It allows users to create temporary pastes with **TTL (time-to-live)** and **max
 - **Backend**: [https://pastebin-lite-vikas-be.vercel.app](https://pastebin-lite-vikas-be.vercel.app)  
 - **Database**: Neon PostgreSQL (Serverless)
 
+   **Note**: PostgreSQL is used as persistence layer for this project
 ---
 
 ## 🧱 Tech Stack
